@@ -2,7 +2,7 @@
 #include <assert.h>
 #include <stdint.h>
 #include <stdlib.h>
-#include "Stack.h"
+#include "stack.h"
 
 struct s_stack *stack;
 

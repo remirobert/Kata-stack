@@ -3,7 +3,7 @@
 //
 
 #include <stdlib.h>
-#include "Stack.h"
+#include "stack.h"
 
 struct s_stack {
     int *values;
